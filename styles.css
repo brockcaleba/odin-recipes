@@ -1,0 +1,18 @@
+* {
+    background-color: rgb(185, 37, 185);
+    color: wheat;
+    
+}
+
+li {
+    font-size: large;
+    margin: 20px;
+}
+
+.index {
+    text-align: justify;
+}
+
+.index li {
+    list-style-type: none;
+}
